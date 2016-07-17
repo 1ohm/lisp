@@ -7,4 +7,3 @@
       ((< n m) prime-list)
       (if (prime-check m prime-list)
 	  (setq prime-list (append prime-list (list m))))))
-prime
