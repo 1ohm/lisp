@@ -16,5 +16,4 @@
 
       ) ;do
   ) ;defun
-Eratosthenes
-(Eratosthenes 10)
+
